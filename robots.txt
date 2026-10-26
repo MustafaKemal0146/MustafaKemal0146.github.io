@@ -1,4 +1,53 @@
-# Önizleme kopyası: arama motorları ve yapay zekâ tarayıcıları için kapalı.
-# Gerçek site: https://mustafakemalcingil.site/
+# robots.txt — https://mustafakemal0146.github.io
+#
+# Amaç: arama motorları ve yapay zekâ asistanları bu siteyi okuyup
+# Mustafa Kemal Çıngıl hakkında doğru ve güncel bilgi versin.
+# Hiçbir şey engellenmiyor. CSS, JS ve görseller de açık: Google sayfayı
+# gerçekten görebilsin diye /assets/ özellikle engellenmiyor.
+#
+# Yapay zekâ için özet ve ayrıntılı profil (Markdown):
+#   https://mustafakemal0146.github.io/llms.txt
+#   https://mustafakemal0146.github.io/llms-full.txt
+
 User-agent: *
-Disallow: /
+Allow: /
+
+# --- Arama motorları ---
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: YandexBot
+User-agent: Applebot
+Allow: /
+
+# --- Yapay zekâ: arama / yanıt verirken sayfayı okuyanlar ---
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: YouBot
+User-agent: meta-externalfetcher
+Allow: /
+
+# --- Yapay zekâ: model eğitimi ve genel tarama ---
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: FacebookBot
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Diffbot
+Allow: /
+
+Sitemap: https://mustafakemal0146.github.io/sitemap.xml

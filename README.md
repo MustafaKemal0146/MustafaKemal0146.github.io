@@ -1,4 +1,5 @@
-# Mustafa Kemal Çıngıl: site önizlemesi
+# Mustafa Kemal Çıngıl
 
-Bu repo, [https://mustafakemalcingil.site](https://mustafakemalcingil.site) sitesinin GitHub Pages **önizleme** kopyasını barındırır.
-Arama motorlarına kapalıdır (`noindex`, `robots.txt: Disallow`). Gerçek siteyi ziyaret et: https://mustafakemalcingil.site
+Kişisel site: https://mustafakemal0146.github.io/
+
+Bilgisayar mühendisi, yazılım geliştirici ve müzisyen (KemalChords). Yapay zeka, sistem yazılımı ve açık kaynak.

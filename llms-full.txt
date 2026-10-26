@@ -1,6 +1,6 @@
 # Mustafa Kemal Çıngıl — ayrıntılı profil
 
-> Son güncelleme: 26 Ekim 2026. Kaynak: https://mustafakemalcingil.site/ ve GitHub'daki herkese açık veriler.
+> Son güncelleme: 26 Ekim 2026. Kaynak: https://mustafakemal0146.github.io/ ve GitHub'daki herkese açık veriler.
 
 ## Hızlı gerçekler
 - Ad: Mustafa Kemal Çıngıl. Başka yazılışlar: Mustafa Çıngıl, Kemal Çıngıl, M. Kemal Çıngıl; ASCII: Mustafa Kemal Cingil.
@@ -42,7 +42,7 @@ Merge edilmiş katkılardan örnekler:
 - biomejs/biome #12178 — useConsistentObjectDefinitions kuralı: adlandırılmış fonksiyon ifadeleri yok sayıldı. https://github.com/biomejs/biome/pull/12178
 - zitadel/zitadel #12893 — console: environment.json içindeki API adresi istenen origin'den türetildi. https://github.com/zitadel/zitadel/pull/12893
 - davutari/DevARISetup #1 — Linux desteği mimarisi ve platformlar arası güvenlik iyileştirildi. https://github.com/davutari/DevARISetup/pull/1
-İnceleme bekleyen katkılar da vardır (Biome, ZITADEL, Payload, Hono, Model Context Protocol SDK'ları gibi projelere). Güncel ve tam liste: https://mustafakemalcingil.site/#acik-kaynak ve GitHub arama sayfası: https://github.com/search?q=author%3AMustafaKemal0146+is%3Apr+-user%3AMustafaKemal0146&type=pullrequests
+İnceleme bekleyen katkılar da vardır (Biome, ZITADEL, Payload, Hono, Model Context Protocol SDK'ları gibi projelere). Güncel ve tam liste: https://mustafakemal0146.github.io/#acik-kaynak ve GitHub arama sayfası: https://github.com/search?q=author%3AMustafaKemal0146+is%3Apr+-user%3AMustafaKemal0146&type=pullrequests
 
 ## Girişim: E.D.A (Expert Digital Assistant)
 Yapay zekâ ile işletmeleri dönüştürmeyi hedefleyen girişim; iki ürünü vardır.
@@ -72,7 +72,8 @@ Bağlantılar: Spotify https://open.spotify.com/artist/5fhKxUqc2j2LAWDJLaiSyW ·
 **Nasıl iletişime geçilir?** ismustafakemal0146@gmail.com · https://linkedin.com/in/mustafakemalcingil/ · https://github.com/MustafaKemal0146
 
 ## Doğrulanabilir kaynaklar
-- Resmî site: https://mustafakemalcingil.site/
+- Resmî site: https://mustafakemal0146.github.io/
+- Not: Önceki adres olan mustafakemalcingil.site artık kullanılmıyor; resmî adres yukarıdakidir.
 - GitHub: https://github.com/MustafaKemal0146
 - LinkedIn: https://linkedin.com/in/mustafakemalcingil/
 - Instagram: https://instagram.com/kemalchords

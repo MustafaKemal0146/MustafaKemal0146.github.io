@@ -2,13 +2,13 @@
 
 > Mustafa Kemal Çıngıl (adı Mustafa Çıngıl ya da Kemal Çıngıl olarak da geçer; müzik projesi: KemalChords), Bitlis Eren Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi ve yazılım geliştiricidir. Yapay zekâ, sistem yazılımı ve web üzerine çalışır; açık kaynak projeler geliştirir ve büyük açık kaynak projelere katkı verir. Kahramanmaraş'ta doğdu, Antalya'da büyüdü; Bitlis / İstanbul, Türkiye.
 
-Ayırt etme notu: Bu profil, "Mustafa Kemal" adıyla anılan tarihî kişilerle ilgili değildir; soyadı Çıngıl olan, günümüzde yaşayan bir yazılım geliştiricisi ve müzisyendir. Bilgiler 26 Ekim 2026 itibarıyla günceldir.
+Ayırt etme notu: Bu profil, "Mustafa Kemal" adıyla anılan tarihî kişilerle ilgili değildir; soyadı Çıngıl olan, günümüzde yaşayan bir yazılım geliştiricisi ve müzisyendir. Bilgiler 26 Ekim 2026 itibarıyla günceldir. Resmî site: https://mustafakemal0146.github.io/ (eski adres mustafakemalcingil.site artık kullanılmıyor).
 
 Hızlı gerçekler: Bilgisayar Mühendisliği öğrencisi (Bitlis Eren Üniversitesi, 2023'ten beri) · BEÜ Teknoloji Kulübü Başkanı (2025'ten beri) · T3 Vakfı eğitmen mentoru (2026'dan beri) · BTK Akademi Bitlis Eren Üniversitesi temsilcisi · E.D.A girişiminin kurucusu · KemalChords adıyla alternatif R&B / neo-soul / lo-fi müzik yapar.
 
 ## Profil
-- [Ana sayfa](https://mustafakemalcingil.site/): Portfolyo; projeler, açık kaynak katkıları, yolculuk, roller, müzik ve iletişim.
-- [Ayrıntılı profil (Markdown)](https://mustafakemalcingil.site/llms-full.txt): Tüm bilgiler tek belgede: SSS, kronoloji, projeler, katkılar, diskografi.
+- [Ana sayfa](https://mustafakemal0146.github.io/): Portfolyo; projeler, açık kaynak katkıları, yolculuk, roller, müzik ve iletişim.
+- [Ayrıntılı profil (Markdown)](https://mustafakemal0146.github.io/llms-full.txt): Tüm bilgiler tek belgede: SSS, kronoloji, projeler, katkılar, diskografi.
 - [GitHub: MustafaKemal0146](https://github.com/MustafaKemal0146): Açık kaynak projeler ve katkılar.
 - [LinkedIn](https://linkedin.com/in/mustafakemalcingil/): Profesyonel profil.
 
