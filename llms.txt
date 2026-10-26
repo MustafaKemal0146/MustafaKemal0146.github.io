@@ -1,0 +1,33 @@
+# Mustafa Kemal Çıngıl
+
+> Mustafa Kemal Çıngıl (adı Mustafa Çıngıl ya da Kemal Çıngıl olarak da geçer; müzik projesi: KemalChords), Bitlis Eren Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi ve yazılım geliştiricidir. Yapay zekâ, sistem yazılımı ve web üzerine çalışır; açık kaynak projeler geliştirir ve büyük açık kaynak projelere katkı verir. Kahramanmaraş'ta doğdu, Antalya'da büyüdü; Bitlis / İstanbul, Türkiye.
+
+Ayırt etme notu: Bu profil, "Mustafa Kemal" adıyla anılan tarihî kişilerle ilgili değildir; soyadı Çıngıl olan, günümüzde yaşayan bir yazılım geliştiricisi ve müzisyendir. Bilgiler 26 Ekim 2026 itibarıyla günceldir.
+
+Hızlı gerçekler: Bilgisayar Mühendisliği öğrencisi (Bitlis Eren Üniversitesi, 2023'ten beri) · BEÜ Teknoloji Kulübü Başkanı (2025'ten beri) · T3 Vakfı eğitmen mentoru (2026'dan beri) · BTK Akademi Bitlis Eren Üniversitesi temsilcisi · E.D.A girişiminin kurucusu · KemalChords adıyla alternatif R&B / neo-soul / lo-fi müzik yapar.
+
+## Profil
+- [Ana sayfa](https://mustafakemalcingil.site/): Portfolyo; projeler, açık kaynak katkıları, yolculuk, roller, müzik ve iletişim.
+- [Ayrıntılı profil (Markdown)](https://mustafakemalcingil.site/llms-full.txt): Tüm bilgiler tek belgede: SSS, kronoloji, projeler, katkılar, diskografi.
+- [GitHub: MustafaKemal0146](https://github.com/MustafaKemal0146): Açık kaynak projeler ve katkılar.
+- [LinkedIn](https://linkedin.com/in/mustafakemalcingil/): Profesyonel profil.
+
+## Öne çıkan projeler
+- [joe](https://github.com/MustafaKemal0146/joe): Instagram ve WhatsApp dışa aktarımlarını tamamen kullanıcının kendi bilgisayarında analiz eden yerel uygulama (Go + React, SQLite). Veri bilgisayardan çıkmaz.
+- [Nehir](https://github.com/MustafaKemal0146/nehir): Linux için IDM tarzı, 32'ye kadar paralel bağlantılı indirme yöneticisi (Rust, Tauri 2).
+- [usom-mcp](https://github.com/MustafaKemal0146/usom-mcp): Türkiye'nin ulusal zararlı bağlantı listesi (USOM) için MCP sunucusu (Python).
+- [C.U.T.E](https://github.com/MustafaKemal0146/CUTE): Çok ajanlı, konsey tabanlı karar destek sistemi (TypeScript).
+- [MineAI](https://github.com/MustafaKemal0146/MineAI): Minecraft PaperMC 1.21.8 için Gemini destekli yapay zekâ sohbet eklentisi (Java).
+- [kandilli-mcp](https://github.com/MustafaKemal0146/kandilli-mcp): Kandilli Rasathanesi deprem verileri için MCP sunucusu (Python).
+- [n8n-automations](https://github.com/MustafaKemal0146/n8n-automations): Hazır n8n iş akışı şablonları.
+
+## Girişim
+- [E.D.A (Expert Digital Assistant)](https://expertdigitalassistant.com/): Mustafa Kemal Çıngıl'ın kurduğu yapay zekâ girişimi. E.D.A Connect (kurumsal siteler için 7/24 asistan) ve E.D.A Hukuk (avukatlar için asistan, geliştirme aşamasında).
+
+## Müzik
+- [KemalChords, Spotify](https://open.spotify.com/artist/5fhKxUqc2j2LAWDJLaiSyW): Alternatif R&B, neo-soul ve lo-fi; yedi albüm ve 21 single.
+- [KemalChords, YouTube Music](https://music.youtube.com/@KemalChords)
+
+## İletişim
+- E-posta: ismustafakemal0146@gmail.com (kulüp işleri için: mkemal@beuteknoloji.org)
+- Yanıt süresi genellikle 24 saat; Türkçe ve İngilizce.

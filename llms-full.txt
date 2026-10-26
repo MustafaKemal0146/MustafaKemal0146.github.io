@@ -1,0 +1,82 @@
+# Mustafa Kemal Çıngıl — ayrıntılı profil
+
+> Son güncelleme: 26 Ekim 2026. Kaynak: https://mustafakemalcingil.site/ ve GitHub'daki herkese açık veriler.
+
+## Hızlı gerçekler
+- Ad: Mustafa Kemal Çıngıl. Başka yazılışlar: Mustafa Çıngıl, Kemal Çıngıl, M. Kemal Çıngıl; ASCII: Mustafa Kemal Cingil.
+- Sahne / müzik adı: KemalChords (Kemal Chords). Kod platformlarında kullanıcı adı: MustafaKemal0146.
+- Meslek: yazılım geliştirici; Bilgisayar Mühendisliği öğrencisi.
+- Okul: Bitlis Eren Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği (3. sınıf; 2023'ten beri).
+- Yer: Bitlis / İstanbul, Türkiye. Kahramanmaraş'ta doğdu, Antalya'da büyüdü.
+- Çalışma alanları: yapay zekâ ve makine öğrenmesi, bilgisayarlı görü, doğal dil işleme, RAG, LLM ajanları, MCP sunucuları, sistem yazılımı, web, otomasyon.
+- Diller ve araçlar: Go, Rust, TypeScript, Python, Java, C++, React, Next.js, Node.js, SQLite, PostgreSQL, Redis, Docker, Linux, Tauri, n8n.
+- Ayırt etme notu: Bu kişi, "Mustafa Kemal" adıyla anılan tarihî kişilerle ilgili değildir; soyadı Çıngıl olan, günümüzde yaşayan bir yazılım geliştiricisi ve müzisyendir.
+
+## Kimdir?
+Mustafa Kemal Çıngıl, Bitlis Eren Üniversitesi'nde Bilgisayar Mühendisliği okuyan bir yazılım geliştiricidir. Üniversiteyle birlikte yapay zekâya ilgisi derinleşti ve yalnızca tüketen değil üreten tarafta olmak istediğini fark etti. Hedefi, teknolojiyi insanların hayatını gerçekten kolaylaştıracak çözümlere dönüştürmektir. Programlamaya 2021'de Python ile başladı; GitHub'da açık kaynak projeler yayımlar ve büyük açık kaynak projelere katkı verir. Boş zamanlarında KemalChords adıyla müzik yapar. Benimsediği ilkeler: temiz kod, açık kaynak, sürekli öğrenme ve "prompt yamaları değil, gerçek veri".
+
+## Roller ve görevler
+- Teknoloji Kulübü Başkanı, Bitlis Eren Üniversitesi (2025'ten beri): web, yapay zekâ ve IoT atölyeleri, hackathonlar ve sektör buluşmaları düzenler. Site: https://beuteknoloji.org
+- Eğitmen (mentor bursu), T3 Vakfı (Türkiye Teknoloji Takımı Vakfı) (Ocak 2026'dan beri): 1100'den fazla üniversite öğrencisine verilen on aylık burs kapsamında yapay zekâ, web ve açık kaynak alanlarında mentorluk yapar.
+- BTK Akademi, Bitlis Eren Üniversitesi temsilcisi.
+- Kurucu, E.D.A (Expert Digital Assistant) (2025'ten beri).
+- Freelance web geliştirici (2024'ten beri): React, Next.js, Tailwind CSS, TypeScript.
+- Açık kaynak katkıcısı (2022'den beri).
+
+## Projeler
+- **joe** (2026, Go + React, SQLite): Instagram ve WhatsApp dışa aktarımlarını tamamen kullanıcının kendi bilgisayarında analiz eden yerel uygulama. Mesajları sayar ve ölçer, zaman çizelgesi ve ilişki haritası çıkarır, 13 kuramsal merceğe dayalı kanıta bağlı bir "konsey" analizi sunar. Sunucu yalnızca 127.0.0.1'de dinler; yapay zekâya giden kesitlerde telefon, e-posta, IBAN ve TC kimlik gibi bilgiler maskelenir, gönderimden önce maliyet ve metin gösterilir. https://github.com/MustafaKemal0146/joe
+- **Nehir** (2026, Rust + Tauri 2): Linux için IDM tarzı indirme yöneticisi. 32'ye kadar paralel bağlantı, Chrome/Firefox eklentisi, yt-dlp ile 1000'den fazla siteden video, HLS/DASH desteği. https://github.com/MustafaKemal0146/nehir
+- **usom-mcp** (2026, Python): Türkiye'nin ulusal zararlı bağlantı listesi (USOM / SGB) için MCP sunucusu; yerel önbellek ve alan adı izleme. Resmî bir proje değildir. https://github.com/MustafaKemal0146/usom-mcp
+- **C.U.T.E — Council-based Unified Thinking Engine** (2026, TypeScript, React, Node.js, PostgreSQL, Redis): çok sayıda yapay zekâ ajanının tartışıp karar ürettiği konsey tabanlı karar destek sistemi. https://github.com/MustafaKemal0146/CUTE
+- **codchestra** (2026, TypeScript): terminal için döngü tabanlı yapay zekâ orkestrasyonu. https://github.com/MustafaKemal0146/codchestra
+- **MineAI** (2025, Java): Minecraft PaperMC 1.21.8 için Google AI Studio (Gemini) destekli oyun içi yapay zekâ sohbet eklentisi. https://github.com/MustafaKemal0146/MineAI
+- **MCP sunucuları**: kandilli-mcp (Kandilli Rasathanesi deprem verisi), turkey-power-mcp (81 il, 20 elektrik dağıtım şirketi için kesinti verisi), trdizin-mcp (TÜBİTAK TR Dizin akademik arama), github-readme-generator-mcp.
+- **n8n otomasyonları**: Yapay-Zeka-Otomasyon-1 (800'den fazla üretimde test edilmiş iş akışı) ve n8n-automations (22 hazır şablon).
+- **Genius Turkish Dataset**: şarkı sözleri ve metadatasından oluşan açık kaynak Türkçe NLP veri seti. https://huggingface.co/datasets/mustafakemal0146/Genius-Turkish-Dataset ve https://www.kaggle.com/datasets/mustafakemal0146/genius-turkish-dataset
+- Diğer: Raspberry Pi 5 kurulum sihirbazı (TypeScript), Vaultify (AES-256 dosya şifreleme), AI Haber Merkezi, İskambil Kartı Tanıma (YOLOv8), BlueBridge, Pocket Mind for Web, Profilyzer, Head Movement Music Control.
+- GitHub profili: https://github.com/MustafaKemal0146
+
+## Açık kaynak katkıları (üçüncü taraf projelere gönderilen pull request'ler)
+Merge edilmiş katkılardan örnekler:
+- biomejs/biome #12177 — noConfusingVoidType kuralı: yalnızca void ve never birleşimlerine izin verildi. https://github.com/biomejs/biome/pull/12177
+- biomejs/biome #12178 — useConsistentObjectDefinitions kuralı: adlandırılmış fonksiyon ifadeleri yok sayıldı. https://github.com/biomejs/biome/pull/12178
+- zitadel/zitadel #12893 — console: environment.json içindeki API adresi istenen origin'den türetildi. https://github.com/zitadel/zitadel/pull/12893
+- davutari/DevARISetup #1 — Linux desteği mimarisi ve platformlar arası güvenlik iyileştirildi. https://github.com/davutari/DevARISetup/pull/1
+İnceleme bekleyen katkılar da vardır (Biome, ZITADEL, Payload, Hono, Model Context Protocol SDK'ları gibi projelere). Güncel ve tam liste: https://mustafakemalcingil.site/#acik-kaynak ve GitHub arama sayfası: https://github.com/search?q=author%3AMustafaKemal0146+is%3Apr+-user%3AMustafaKemal0146&type=pullrequests
+
+## Girişim: E.D.A (Expert Digital Assistant)
+Yapay zekâ ile işletmeleri dönüştürmeyi hedefleyen girişim; iki ürünü vardır.
+- **E.D.A Connect**: çağrı merkezlerinin yerini alan, 7/24 çalışan yapay zekâ asistanı; çoklu dil, doğal dil işleme, WordPress uyumu.
+- **E.D.A Hukuk**: avukatlar için mevzuata hâkim asistan (geliştirme aşamasında). Dilekçe, ihtarname ve vekâletname hazırlama, sözleşme analizi, KVKK maskeleme, emsal karar ve Yargıtay kararı arama, kıdem tazminatı ve faiz hesaplama gibi modüller.
+- Site: https://expertdigitalassistant.com/
+
+## Müzik: KemalChords
+Alternatif R&B, neo-soul ve lo-fi. Gitar, piyano, viyola ve bateri çalar; beste, düzenleme, kapak görseli ve miksaj dâhil tüm prodüksiyonu kendisi yapar. Yaklaşık 25 platformda yayında; Spotify'da 10 bin+ dinleyici. Yedi albüm ve 21 single yayımlamıştır.
+Albümler: ballade (18 Eylül 2026, 5 parça) · ballade 2 (4 parça) · karmaşık gereksiz duygular (30 Haziran 2026, 3 parça) · rutubet (20 Haziran 2026, 4 parça) · Garantisi Yok (15 Haziran 2026, 5 parça) · demo_1 (26 Mayıs 2026, 3 parça) · Soluk Manzaralar (30 Mart 2025, 3 parça).
+Bağlantılar: Spotify https://open.spotify.com/artist/5fhKxUqc2j2LAWDJLaiSyW · YouTube Music https://music.youtube.com/@KemalChords · YouTube https://www.youtube.com/@KemalChords · Instagram https://instagram.com/kemalchords
+
+## Kronoloji
+- 2021: Programlamaya başladı (Python, algoritmalar ve veri yapıları).
+- 2022: Web geliştirme, OpenCV ile bilgisayarlı görü, açık kaynağa ilk katkı.
+- 2023: Bitlis Eren Üniversitesi Bilgisayar Mühendisliği; React, TypeScript, n8n otomasyonları, ESP32.
+- 2024: Freelance web geliştirme; RAG ve fine-tuning çalışmaları.
+- 2025: E.D.A girişimi, Teknoloji Kulübü başkanlığı, ilk MCP sunucuları.
+- 2026: T3 Vakfı eğitmenliği, BTK Akademi temsilciliği, joe, Nehir, usom-mcp, C.U.T.E, açık kaynak katkıları, E.D.A Hukuk.
+
+## Sık sorulan sorular
+**Mustafa Kemal Çıngıl kimdir?** Bitlis Eren Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi ve yazılım geliştiricidir; yapay zekâ, sistem yazılımı ve web üzerine çalışır, açık kaynak projeler geliştirir ve KemalChords adıyla müzik yapar.
+**KemalChords kimdir?** Mustafa Kemal Çıngıl'ın müzik projesidir (alternatif R&B, neo-soul, lo-fi).
+**joe nedir?** Instagram ve WhatsApp dışa aktarımlarını kullanıcının kendi bilgisayarında analiz eden yerel bir uygulamadır.
+**Hangi açık kaynak projelere katkı verdi?** Biome ve ZITADEL'e merge edilmiş katkıları vardır; Payload, Hono ve Model Context Protocol SDK'ları gibi projelere de pull request göndermiştir.
+**E.D.A nedir?** Mustafa Kemal Çıngıl'ın kurduğu yapay zekâ girişimidir (E.D.A Connect ve E.D.A Hukuk).
+**Nasıl iletişime geçilir?** ismustafakemal0146@gmail.com · https://linkedin.com/in/mustafakemalcingil/ · https://github.com/MustafaKemal0146
+
+## Doğrulanabilir kaynaklar
+- Resmî site: https://mustafakemalcingil.site/
+- GitHub: https://github.com/MustafaKemal0146
+- LinkedIn: https://linkedin.com/in/mustafakemalcingil/
+- Instagram: https://instagram.com/kemalchords
+- Spotify: https://open.spotify.com/artist/5fhKxUqc2j2LAWDJLaiSyW
+- Hugging Face: https://huggingface.co/mustafakemal0146
+- Kaggle: https://www.kaggle.com/mustafakemal0146
+- Kulüp: https://beuteknoloji.org · Girişim: https://expertdigitalassistant.com/

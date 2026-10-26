@@ -1,0 +1,4 @@
+# Önizleme kopyası: arama motorları ve yapay zekâ tarayıcıları için kapalı.
+# Gerçek site: https://mustafakemalcingil.site/
+User-agent: *
+Disallow: /
